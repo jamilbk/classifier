@@ -1,0 +1,13 @@
+[
+  {"dst": "1.1.1.1",        "proto": "udp", "port": {"start": 53, "end": 53}},
+  {"dst": "8.8.8.8",        "proto": "udp", "port": {"start": 53, "end": 53}},
+  {"dst": "0.0.0.0/8",      "proto": "*",   "port": {"start": 1,  "end": 65536}},
+  {"dst": "21.22.23.24",    "proto": "*",   "port": {"start": 1,  "end": 65536}},
+  {"dst": "1.1.1.1",        "proto": "udp", "port": {"start": 53, "end": 53}},
+  {"dst": "1.1.1.1",        "proto": "udp", "port": {"start": 53, "end": 53}},
+  {"dst": "1.1.1.1",        "proto": "udp", "port": {"start": 53, "end": 53}},
+  {"dst": "4.4.4.4",        "proto": "udp", "port": {"start": 53, "end": 53}},
+  {"dst": "0.0.0.0/0",      "proto": "*",   "port": {"start": 53, "end": 53}},
+  {"dst": "0.0.0.0/0",      "proto": "udp", "port": {"start": 53, "end": 53}},
+  {"dst": "0.0.0.0/0",      "proto": "tcp", "port": {"start": 53, "end": 53}}
+]
